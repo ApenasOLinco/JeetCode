@@ -3,9 +3,9 @@ package com.apenasolinco.leetcodae;
 /**
  * <a href="https://leetcode.com/problems/climbing-stairs/description/">Leet 70: Climbing Stairs</a>
  */
-public class ClimbingStairs70 {
+public class ClimbingStairs0070 {
     public static void main(String[] args) {
-        final ClimbingStairs70 c70 = new ClimbingStairs70();
+        final ClimbingStairs0070 c70 = new ClimbingStairs0070();
 
         // Expected result: 2
         System.out.println(c70.climbStairs(2));
