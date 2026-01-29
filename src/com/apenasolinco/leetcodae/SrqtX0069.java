@@ -1,5 +1,8 @@
 package com.apenasolinco.leetcodae;
 
+/**
+ * <a href="https://leetcode.com/problems/sqrtx/">Leet 69: Sqrt(x)</a>
+ */
 public class SrqtX0069 {
     public static void main(String[] args) {
         final SrqtX0069 sr = new SrqtX0069();

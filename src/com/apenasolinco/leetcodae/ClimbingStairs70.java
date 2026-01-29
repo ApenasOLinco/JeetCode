@@ -1,5 +1,8 @@
 package com.apenasolinco.leetcodae;
 
+/**
+ * <a href="https://leetcode.com/problems/climbing-stairs/description/">Leet 70: Climbing Stairs</a>
+ */
 public class ClimbingStairs70 {
     public static void main(String[] args) {
         final ClimbingStairs70 c70 = new ClimbingStairs70();
@@ -25,7 +28,7 @@ public class ClimbingStairs70 {
             first = sum;
             result = sum;
             current--;
-        }c
+        }
 
         return result;
     }
