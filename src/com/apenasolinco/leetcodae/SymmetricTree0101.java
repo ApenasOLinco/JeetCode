@@ -10,7 +10,15 @@ public class SymmetricTree0101 {
 
         // Expected result: false
         result = st101.isSymmetric(
-                new TreeNode(1, new TreeNode(12, new TreeNode(3), null), new TreeNode(4))
+                new TreeNode(
+                        1,
+                        new TreeNode(
+                                12,
+                                new TreeNode(3),
+                                null
+                        ),
+                        new TreeNode(4)
+                )
         );
         System.out.println(result);
 
